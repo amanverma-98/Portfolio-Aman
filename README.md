@@ -2,7 +2,7 @@
 
 🎓 **Student & Machine Learning Enthusiast**
 
-Welcome to my GitHub! I’m a student with a keen interest in Machine Learning and its real-world applications. Here, you’ll find my journey as I explore ML concepts, data-driven projects, and practical problem-solving.
+Welcome to my GitHub! I’m a student with a keen interest in Machine Learning and its real-world applications. Here, you’ll find my tough journey  exploring fucking ML concepts, some badass data-driven projects, and practical problem-solving.
 
 ---
 
@@ -26,7 +26,7 @@ A C++ simulation of ATM operations, strengthening my logic-building and understa
 
 ## 📬 Let's Connect!
 
-I’m always open to collaboration, learning, or discussing anything related to ML and tech. Feel free to reach out!
+I’m always open to collaboration, learning, teaching or discussing anything related to ML and tech. Feel free to reach out anytime 24x7!
 
 ---
 
